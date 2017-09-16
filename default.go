@@ -13,7 +13,7 @@ import (
 	"os"
 	"time"
 
-	"golang.org/x/net/publicsuffix"
+	"github.com/gy-games-libs/net/publicsuffix"
 )
 
 // DefaultClient of resty

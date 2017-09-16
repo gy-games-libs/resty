@@ -14,9 +14,9 @@ import (
 	"strconv"
 	"time"
 
-	"golang.org/x/net/proxy"
+	"github.com/gy-games-libs/net/proxy"
 
-	"github.com/go-resty/resty"
+	"github.com/gy-games-libs/resty"
 )
 
 type DropboxError struct {
