@@ -14,7 +14,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/gy-games-libs/net/proxy"
+	"github.com/gy-games-libs/golang/x/net/proxy"
 
 	"github.com/gy-games-libs/resty"
 )
